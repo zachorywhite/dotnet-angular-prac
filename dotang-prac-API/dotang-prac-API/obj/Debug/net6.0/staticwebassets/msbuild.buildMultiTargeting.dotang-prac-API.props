@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\dotang-prac-API.props" />
+</Project>
